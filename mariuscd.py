@@ -5,6 +5,8 @@ weight = float(input("Enter your weight in kg: "))
 
 BMI = weight / (height/100)**2
 
+
+#printing the result
 print(f"You BMI is {BMI}")
 
 

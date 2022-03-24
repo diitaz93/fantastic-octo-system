@@ -1,3 +1,5 @@
+### link: https://dev.to/mindninjax/how-to-build-a-bmi-calculator-in-python-4g2g
+
 height = float(input("Enter your height in cm: "))
 weight = float(input("Enter your weight in kg: "))
 
